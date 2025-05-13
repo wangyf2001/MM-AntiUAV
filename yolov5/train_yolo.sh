@@ -1,0 +1,1 @@
+python train.py --batch 32 --epochs 30 --cfg models/yolov5s-MultiUAV.yaml --data data/MOT-UAV.yaml --device 0 --single-cls

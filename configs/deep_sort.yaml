@@ -1,0 +1,10 @@
+DEEPSORT:
+  REID_CKPT: "deep_sort/deep/checkpoint/ckpt.t7" #选择权重路径
+  MAX_DIST: 0.2
+  MIN_CONFIDENCE: 0.3
+  NMS_MAX_OVERLAP: 0.5 #0.5
+  MAX_IOU_DISTANCE: 0.7
+  MAX_AGE: 70
+  N_INIT: 1 #3
+  NN_BUDGET: 100
+  
