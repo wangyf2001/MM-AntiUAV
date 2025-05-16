@@ -99,6 +99,7 @@ We also provide a Python script `4_visualization.py` to visualize the bounding b
 
 By using [OpenCompass](https://github.com/open-compass/opencompass/tree/main), you can easily obtain analyses of multi-UAV motion behaviors from various MLLMs.
 
+By using the evaluation scripts in the `val` folder, you can easily obtain BLEU and SPICE scores.
 
 
 
