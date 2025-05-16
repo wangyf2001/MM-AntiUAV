@@ -1,5 +1,7 @@
 # Multi-UAV: DeepSORT_YOLOv5_Pytorch
 
+This repository contains sample evaluation and training code for multi drone tracking and intent recognition. To address this task, we held The [4th Anti UAV Workshop at CVPR25](https://anti-uav.github.io)
+
 ## Prepare 
 1 Create a virtual environment with Python >=3.8  
 ~~~
