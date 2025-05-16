@@ -94,12 +94,11 @@ python test_videos.py
 
 We also provide a Python script `4_visualization.py` to visualize the bounding boxes on videos.
 
-## Submit
-The submission format is provided in `Submission_example.zip`, where each line represents an object. Each value corresponds to 
 
-**[frame ID, object ID, x1, y1, w, h, confidence, class, visibility ratio]**.
+## Intent Recognition
 
-(The first six values are the most important: **frame ID, object ID, x1, y1, w, h**, where x1 and y1 represent the coordinates of the top-left corner.)
+By using [OpenCompass](https://github.com/open-compass/opencompass/tree/main), you can easily obtain analyses of multi-UAV motion behaviors from various MLLMs.
+
 
 
 
