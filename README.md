@@ -1,4 +1,4 @@
-# Multi-UAV: DeepSORT_YOLOv5_Pytorch
+# MM-AntiUAV: A Comprehensive Benchmark for Multi-UAV Tracking and Intent Recognition
 
 This repository contains sample evaluation and training code for multi drone tracking and intent recognition. To address this task, we held The [4th Anti UAV Workshop at CVPR25](https://anti-uav.github.io)
 
